@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SherlockShemol，I am now a student of BUPT in Beijing.
-- 👀 I’m interested in reading novels and the knowledge of ML,DL 
+- 👀 I’m interested in reading and the knowledge of Math,ML,DL and telecommunications. 
 - 🌱 I’m currently learning basic telecommunications knowledge and an outsider of ML,DL
 - 📫 My email shemol@163.com or the school email songsa@bupt.edu.cn
 
