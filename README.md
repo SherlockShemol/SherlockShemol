@@ -3,7 +3,7 @@
 <img align="right" alt="coding" width="480" hight="255" src="https://media.giphy.com/media/FqdGGgugkC4Xm/giphy.gif">
 
 
-- 🔭 I’m currently **preparing for the Graduate Entrance Exam**
+- 🔭 I’m currently focusing on **computer network problems**
 - 🌱 I’m currently learning **basic cs knowdge**
 - 📝 I regularly write articles on [https://SherlockShemol.github.io/](https://SherlockShemol.github.io/)
 - 👨‍💻 All of my projects are available at <a href="https://github.com/SherlockShemol?tab=repositories" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="abhinandanraj" height="30" width="40" /></a>
