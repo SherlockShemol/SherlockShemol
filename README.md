@@ -12,10 +12,7 @@
 - 📫 How to reach me **shemol106@gmail.com**
 
 ## 🤝 Connect With Me
- <a href="https://twitter.com/ShemolSher">
-  <img alt="guilyx's Instagram" width="50px" src="https://user-images.githubusercontent.com/60147732/151752017-e83f8422-77ce-447a-a51f-74d676e22c17.png" />
-</a>&nbsp;&nbsp;
-</br>
+shemol106@gmail.com
 
 ## 🧠 The body perishable, but the mind eternal
 <img src="https://media.giphy.com/media/l0K4hrwXJnW9RuBd6/giphy.gif" width="480" height="360">
