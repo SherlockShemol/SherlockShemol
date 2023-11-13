@@ -7,8 +7,6 @@
 - 🌱 I’m currently learning **basic cs knowdge**
 - 📝 I regularly write articles on [https://SherlockShemol.github.io/](https://SherlockShemol.github.io/)
 - 👨‍💻 All of my projects are available at <a href="https://github.com/SherlockShemol?tab=repositories" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="abhinandanraj" height="30" width="40" /></a>
-
-- 💬 I believe in Optimistic go luck
 - 📫 How to reach me **shemol106@gmail.com**
 
 ## 🤝 Connect With Me
