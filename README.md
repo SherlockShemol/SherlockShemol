@@ -3,8 +3,8 @@
 <img align="right" alt="coding" width="360" hight="125" src="https://media.giphy.com/media/FqdGGgugkC4Xm/giphy.gif">
 
 
-- 🔭 I’m currently focusing on **Cloud Native**
-- 🌱 I’m currently learning **kubernetes**
+- 🔭 I’m currently focusing on ****
+- 🌱 I’m currently learning ****
 - 📝 I regularly write articles on [https://shemol.tech](https://shemol.tech)
 - 👨‍💻 All of my projects are available at <a href="https://github.com/SherlockShemol?tab=repositories" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="abhinandanraj" height="30" width="40" /></a>
 - 📫 How to reach me **shemol106@gmail.com**
